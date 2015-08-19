@@ -1,7 +1,7 @@
 # dropdown
 js custom dropdown
 
-<code>
+```
 /**
  * Dropdown
  **/
@@ -51,4 +51,4 @@ js custom dropdown
 
 	window.app = app;
 })();
-</code>
+```
